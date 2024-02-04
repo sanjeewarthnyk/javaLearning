@@ -22,7 +22,7 @@ public class StreamDemo {
 
         //method 2
        // arr.forEach(n-> System.out.println(n));
-
+        //lambda expression
         /*Consumer<Integer> con = integer -> System.out.println(integer) ;
 
         arr.forEach(integer -> System.out.println(integer));*/
