@@ -20,6 +20,7 @@ public class StreamDemo {
         }
         System.out.println(results);*/
 
+        //method 2
        // arr.forEach(n-> System.out.println(n));
 
         /*Consumer<Integer> con = integer -> System.out.println(integer) ;
